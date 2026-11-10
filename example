@@ -1,0 +1,8 @@
+{
+  "_note": "ILLUSTRATIVE ONLY. Check exact population labels in your AADR .ind file and justify your own source and right sets.",
+  "target": "MySample",
+  "sources": ["Onge.DG", "Indus_Periphery_West", "Russia_Sintashta_MLBA"],
+  "right": ["Mbuti.DG", "Russia_Ust_Ishim.DG", "Russia_Kostenki14", "Han.DG", "Papuan.DG", "Russia_MA1_HG.SG", "Iran_GanjDareh_N"],
+  "allsnps": true,
+  "phase": "exploratory"
+}
